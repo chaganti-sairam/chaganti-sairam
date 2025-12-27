@@ -68,6 +68,7 @@
 | **DocForge** | AI for 200+ page documents — proposals, agreements, reports that current AI can't handle | 🔜 Coming Soon |
 | **Terminal Manager** | One-click terminal management — snippets, ports, background services, personal workflows | 🔜 Coming Soon |
 | **AI Form Filler** | Chrome extension that auto-fills forms intelligently using AI — learns your data, fills smarter | 🔜 Coming Soon |
+| **AI Powered Demo** | Autonomous AI agent that joins video calls and conducts complete, interactive product demonstrations | 🔜 Coming Soon |
 
 ---
 
