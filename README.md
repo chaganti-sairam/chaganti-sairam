@@ -2,7 +2,7 @@
 
 # Sairam Chaganti
 
-**CTO & Digital Transformation Leader**
+**CTAIO — Chief Technology & AI Officer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sai-ram-chaganti-ctaio-portfolio-144679114199.us-west1.run.app/)
