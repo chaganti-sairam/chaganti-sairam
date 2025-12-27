@@ -2,15 +2,12 @@
 
 # Sairam Chaganti
 
-**CTAIO @ LawyerDesk Advocacy Pvt Ltd**
+**CTO & Digital Transformation Leader**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
-[![LawyerDesk](https://img.shields.io/badge/LawyerDesk-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lawyerdesk.ai)
-[![CounselCrest](https://img.shields.io/badge/CounselCrest-4A90A4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://counselcrest.com)
-[![LegiTract](https://img.shields.io/badge/LegiTract-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://legitract.com)
-[![Prajalok](https://img.shields.io/badge/Prajalok-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prajalok.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sai-ram-chaganti-ctaio-portfolio-144679114199.us-west1.run.app/)
 
-*Building at the intersection of AI, Legal Tech & Mobile*
+*"Building Scalable AI-Native Products for a Digital-First World"*
 
 </div>
 
@@ -20,19 +17,57 @@
 
 ### About Me
 
-- **CTAIO** at LawyerDesk Advocacy Pvt Ltd
-- Building **AI-powered Legal Tech** solutions
-- Passionate about **On-device AI** & **Privacy-first** apps
+- **Co-Founder & CTO** at LawyerDesk Advocacy Pvt Ltd
+- Building **AI-native ecosystems** across Legal, Education & Commerce
+- **10+ years** building startups & digital products
 - **Full Stack Developer** & **Business Strategist**
 - Based in **Vizag, India**
 
-### Currently Working On
-
-- **LawyerDesk AI** — AI-powered legal platform
-- **Offline AI Chat** — Run LLMs locally on iOS
-- **Open Source** — Making AI accessible
+> *"Don't build unicorns, build cockroaches—durability over vanity metrics"*
 
 <br clear="right"/>
+
+---
+
+### Current Ventures
+
+| Company | Role | Focus |
+|---------|------|-------|
+| **LawyerDesk Advocacy** | Co-Founder & CTO | AI-native legal ecosystem |
+| **Upaveda Educations** | CTO | AI-powered learning simulations |
+| **SeaMaster Foods** | CTO | E-commerce & cold-chain logistics |
+| **Indian School of Law** | CTO | AI-powered legal education |
+| **Subhaprada Holdings** | CTO | Divine Essentials & Tirthayatra |
+| **Meklet Healthcare** | Tech Consultant | Hospital HMIS implementation |
+
+---
+
+### Our Products
+
+<div align="center">
+
+[![LawyerDesk](https://img.shields.io/badge/LawyerDesk-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lawyerdesk.ai)
+[![CounselCrest](https://img.shields.io/badge/CounselCrest-4A90A4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://counselcrest.com)
+[![LegiTract](https://img.shields.io/badge/LegiTract-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://legitract.com)
+[![Prajalok](https://img.shields.io/badge/Prajalok-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prajalok.com)
+
+</div>
+
+---
+
+### Upcoming Projects
+
+> *Open source ideas & tools coming soon — contributions welcome!*
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Q&A Utility** | Clarification layer for AI before giving final results — asks questions first, answers better | 🔜 Coming Soon |
+| **User Intelligence** | Auto-generate landing pages & blogs based on user search intent — no more guesswork | 🔜 Coming Soon |
+| **Simple OTP Forwarder** | Android app to capture OTPs and forward to any service/webhook | 🔜 Coming Soon |
+| **Conversational SaaS** | Let users speak to your SaaS — voice-based actions & navigation | 🔜 Coming Soon |
+| **DocForge** | AI for 200+ page documents — proposals, agreements, reports that current AI can't handle | 🔜 Coming Soon |
+| **Terminal Manager** | One-click terminal management — snippets, ports, background services, personal workflows | 🔜 Coming Soon |
+| **AI Form Filler** | Chrome extension that auto-fills forms intelligently using AI — learns your data, fills smarter | 🔜 Coming Soon |
 
 ---
 
@@ -55,8 +90,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -99,13 +134,31 @@
 
 ---
 
+### Philosophy
+
+> *"MCPs are the new normal for interoperable AI agents"*
+
+> *"Community engagement is the new SEO"*
+
+> *"The best tech ships valuable features fastest"*
+
+---
+
+### Services
+
+- **Fractional CTO** — Leadership for startups & scale-ups
+- **Guest Lectures** — AI, startup building, product development
+- **Workshops** — Intensive sessions on emerging tech
+
+---
+
 ### Let's Collaborate
 
 <div align="center">
 
 **I have ideas. I have working products. Looking for partners to take things to market.**
 
-Interested in **commercializing AI products**, **legal tech**, or **on-device AI**?
+Interested in **commercializing AI products**, **legal tech**, or **joining the upcoming projects**?
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
 
