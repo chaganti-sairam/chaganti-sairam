@@ -75,16 +75,24 @@
 ### GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chaganti-sairam&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=chaganti-sairam&theme=default&hide_border=true" />
-    <img height="165" src="https://streak-stats.demolab.com?user=chaganti-sairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chaganti-sairam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaganti-sairam&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaganti-sairam&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -93,11 +101,7 @@
 
 <div align="center">
   <a href="https://github.com/chaganti-sairam/offline-ios-local-app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=default&hide_border=true" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" alt="Offline AI Chat" />
-    </picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" alt="Offline AI Chat" />
   </a>
 </div>
 
