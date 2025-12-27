@@ -5,7 +5,6 @@
 **CTAIO @ LawyerDesk Advocacy Pvt Ltd**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sairamchaganti)
 [![Website](https://img.shields.io/badge/LawyerDesk-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lawyerdesk.ai)
 
 *Building at the intersection of AI, Legal Tech & Mobile*
@@ -13,8 +12,6 @@
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### About Me
 
@@ -29,8 +26,6 @@
 - **LawyerDesk AI** — AI-powered legal platform
 - **Offline AI Chat** — Run LLMs locally on iOS
 - **Open Source** — Making AI accessible
-
-<br clear="right"/>
 
 ---
 
@@ -74,10 +69,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaganti-sairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaganti-sairam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+<a href="https://github.com/chaganti-sairam">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+</a>
+<a href="https://github.com/chaganti-sairam">
+  <img src="https://streak-stats.demolab.com/?user=chaganti-sairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</a>
 
 </div>
 
@@ -87,7 +84,9 @@
 
 <div align="center">
 
-[![Offline AI Chat](https://github-readme-stats.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true)](https://github.com/chaganti-sairam/offline-ios-local-app)
+<a href="https://github.com/chaganti-sairam/offline-ios-local-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" alt="Offline AI Chat">
+</a>
 
 </div>
 
@@ -101,8 +100,7 @@
 
 Interested in **commercializing AI products**, **legal tech**, or **on-device AI**?
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam@lawyerdesk.ai)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/sairamchaganti)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
 
 </div>
 
