@@ -5,13 +5,18 @@
 **CTAIO @ LawyerDesk Advocacy Pvt Ltd**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairamchaganti)
-[![Website](https://img.shields.io/badge/LawyerDesk-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lawyerdesk.ai)
+[![LawyerDesk](https://img.shields.io/badge/LawyerDesk-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lawyerdesk.ai)
+[![CounselCrest](https://img.shields.io/badge/CounselCrest-4A90A4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://counselcrest.com)
+[![LegiTract](https://img.shields.io/badge/LegiTract-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://legitract.com)
+[![Prajalok](https://img.shields.io/badge/Prajalok-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prajalok.com)
 
 *Building at the intersection of AI, Legal Tech & Mobile*
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### About Me
 
@@ -26,6 +31,8 @@
 - **LawyerDesk AI** — AI-powered legal platform
 - **Offline AI Chat** — Run LLMs locally on iOS
 - **Open Source** — Making AI accessible
+
+<br clear="right"/>
 
 ---
 
@@ -68,14 +75,16 @@
 ### GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/chaganti-sairam">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-</a>
-<a href="https://github.com/chaganti-sairam">
-  <img src="https://streak-stats.demolab.com/?user=chaganti-sairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaganti-sairam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chaganti-sairam&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=chaganti-sairam&theme=default&hide_border=true" />
+    <img height="165" src="https://streak-stats.demolab.com?user=chaganti-sairam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -83,11 +92,13 @@
 ### Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/chaganti-sairam/offline-ios-local-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" alt="Offline AI Chat">
-</a>
-
+  <a href="https://github.com/chaganti-sairam/offline-ios-local-app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=default&hide_border=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaganti-sairam&repo=offline-ios-local-app&theme=tokyonight&hide_border=true" alt="Offline AI Chat" />
+    </picture>
+  </a>
 </div>
 
 ---
